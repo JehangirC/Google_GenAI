@@ -1,7 +1,10 @@
 # Resources from the Google GenAI Course April 2025
+
 I have include the whitepapers as well as the code labs and my own projects based on the codelabs.  
 These will work within Kaggle or Colab environments.  
+
 ## Day 1 Assignments
+
 1. Complete the Intro Unit – “Foundational Large Language Models & Text Generation”:  
 
     - Listen to the summary podcast [episode](https://notifications.googleapis.com/email/redirect?t=AFG8qyWjtH7sB_KjeItPJszNejYHt1jqB2uPF29xifCO92V4CBOF3-hlwovgx-mQfoy-Btiib4K2WpdvGkYI4CVhs61Tc4qJ_NvvWiGGYRxoNSwkDi8TPCr_F-io2Iy9oQFr5jj3QD8VGuS55BKll4gva80amN1xQAwO2ifQE0WIDS1O25wzmUANLnZgN5lBJBDfsqzLv8C-ZCJy6jg0NVGh951Utp6_ZFBXHO7XdYw8m7YPvFgdI8r_GY7iu3Ps1SES5uQRNivEZFw&r=eJzLKCkpKLbS1y8vL9erzC8tKU1K1UvOz9UvTyxJzrAvs_VLNPY3CchOKtANVcvJLC6xDfApdEsM8Uw3ya0sja_09iooc7MIdzXySkt0N812Ly3Ld1XLzEtJrbA1BADlDyAU&s=ALHZ2r5QHMiX9sFKrE4zxQWOCF4C) for this unit.  
@@ -14,3 +17,15 @@ These will work within Kaggle or Colab environments.
         - [Prompting fundamentals](https://www.kaggle.com/code/markishere/day-1-prompting)
         - [Evaluation and structured data](https://www.kaggle.com/code/markishere/day-1-evaluation-and-structured-output)
     - Make sure you phone verify your Kaggle account before starting, it's necessary for the codelabs.
+
+## Day 2 Assignments
+
+1. Complete Unit 2: “Embeddings and Vector Stores/ Databases”:
+
+    - Listen to the [summary podcast episode](https://www.youtube.com/watch?v=xCAVsst6WJ8&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=4) for this unit.
+    - To complement the podcast, read the “[Embeddings and Vector Stores/ Databases](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores)” whitepaper.
+    - Complete these codelabs on Kaggle:
+        - Build a [RAG](https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag) question-answering system over custom documents.
+        - Explore [text similarity with embeddings](https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores).
+        - Build a [neural classification network](https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras) with Keras using embeddings.
+
