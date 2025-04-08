@@ -44,4 +44,12 @@ These will work within Kaggle or Colab environments.
     - Listen to the [summary podcast episode](https://www.youtube.com/watch?v=7rbSwt-7odQ&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=6) for this unit.
     - Read the advanced “[Agents Companion](http://kaggle.com/whitepaper-agent-companion)” whitepaper.
 
+## Day 4 Assignments
 
+1. Complete Unit 4 - “Domain-Specific LLMs”:
+
+    - Listen to the [summary podcast episode](https://www.youtube.com/watch?v=MWqspvVvNzA&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=7) for this unit.
+    - To complement the podcast, read the “[Solving Domain-Specific Problems Using LLMs](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms)” whitepaper.
+    - Complete these codelabs on Kaggle:
+        - [Tune](https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model) a Gemini model for a custom task.
+        - [Use](https://www.kaggle.com/code/markishere/day-4-google-search-grounding) Google Search data in generation.
