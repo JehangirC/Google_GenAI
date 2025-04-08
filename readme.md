@@ -53,3 +53,15 @@ These will work within Kaggle or Colab environments.
     - Complete these codelabs on Kaggle:
         - [Tune](https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model) a Gemini model for a custom task.
         - [Use](https://www.kaggle.com/code/markishere/day-4-google-search-grounding) Google Search data in generation.
+
+## Day 5 Assignments
+
+1. Complete Unit 5 - “MLOps for Generative AI”:
+
+    - Listen to the [summary podcast episode](https://www.youtube.com/watch?v=Hbk8UXavHrk&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=8) for this unit.
+    - To complement the podcast, read the “[MLOps for Generative AI](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops)” whitepaper.
+    - No codelab for this unit! Please instead go through [goo.gle/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack), a resource created for making MLOps for Gen AI easier and accelerating the path to production.
+
+## Capstone Project
+
+To Be added.
